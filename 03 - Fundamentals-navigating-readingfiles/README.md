@@ -6,4 +6,4 @@
 * What is the current directory shortcut? Write your answer below.
 
 **Bonus**
-* Open the current directory in the terminal using the current directory shortcut. 
+* Show the contents of the current directory in the terminal using the current directory shortcut. 
